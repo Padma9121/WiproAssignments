@@ -1,0 +1,478 @@
+2025-08-08 11:30:36,361 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-08-08 11:51:30,304 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-08 20:22:31,078 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-08 20:23:30,797 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-08 22:40:49,157 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-09 14:42:14,968 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-09 14:43:12,789 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-09 14:46:35,364 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-09 14:49:43,712 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:College-App:0.0.1-SNAPSHOT @ C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\pom.xml.
+2025-08-09 14:49:46,012 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /College-App/src/main/java
+2025-08-09 14:49:46,016 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /College-App/src/main/resources
+2025-08-09 14:49:46,031 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /College-App/src/main/resources
+2025-08-09 14:49:46,045 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /College-App/src/test/java
+2025-08-09 14:49:46,047 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /College-App/src/test/resources
+2025-08-09 14:49:47,829 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2025-08-09 14:49:47,833 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-09 14:49:48,574 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:College-App:0.0.1-SNAPSHOT @ C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\pom.xml.
+2025-08-09 14:49:49,689 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /College-App/src/main/java
+2025-08-09 14:49:49,690 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /College-App/src/main/resources
+2025-08-09 14:49:49,692 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /College-App/src/main/resources
+2025-08-09 14:49:49,692 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /College-App/src/test/java
+2025-08-09 14:49:49,693 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /College-App/src/test/resources
+2025-08-09 14:49:50,193 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-08-09 14:49:51,788 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:49:51,810 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:49:51,817 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:51:44,799 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:51:44,841 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:51:44,849 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:52:19,610 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:52:19,673 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:52:19,688 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:52:31,920 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:52:32,004 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:52:32,011 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:52:58,098 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:52:58,109 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:52:58,114 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:53:32,432 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:53:32,458 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:53:32,467 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:54:09,014 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:54:09,064 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:54:09,071 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:54:48,007 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:54:48,017 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:54:48,022 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 14:55:26,482 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 14:55:26,500 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 14:55:26,506 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:09:34,207 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:09:34,254 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:09:34,259 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:11:23,066 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:11:23,074 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:11:23,077 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:18:12,538 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:18:12,702 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:18:12,708 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:20:05,745 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:20:05,786 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:20:05,799 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:20:53,288 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:20:53,308 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:20:53,314 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:20:56,257 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:20:56,370 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:20:56,376 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:28:17,779 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:28:17,870 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:28:17,875 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:30:02,300 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:30:02,399 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:30:02,404 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:30:09,521 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:30:09,534 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:30:09,540 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:34:03,664 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:34:03,719 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:34:03,731 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:34:49,481 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:34:49,505 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:34:49,509 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:38:57,458 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:38:57,500 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:38:57,505 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:41:00,106 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:41:00,115 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:41:00,120 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 15:44:46,881 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 15:44:46,959 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 15:44:46,962 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:05:32,983 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:05:33,027 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:05:33,032 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:05:36,370 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:05:36,454 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:05:36,458 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:05:51,413 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:05:51,489 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:05:51,491 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:06:03,867 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:06:03,957 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:06:03,961 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:07:07,069 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:07:07,100 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:07:07,143 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:17:41,634 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:17:41,640 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:17:41,655 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:20:51,792 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:20:51,808 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:20:51,825 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:33:26,680 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 16:33:26,685 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:33:26,694 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:41:39,776 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:41:39,891 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:41:39,896 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:41:51,331 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:41:51,433 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:41:51,437 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:42:32,292 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:42:32,351 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:42:32,355 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:44:48,214 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:44:48,310 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:44:48,314 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:48:38,029 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:48:38,067 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:48:38,073 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:50:07,645 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:50:07,715 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:50:07,718 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:50:17,257 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:50:17,357 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:50:17,362 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:51:06,822 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:51:06,828 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:51:06,831 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:52:17,556 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:52:17,577 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:52:17,582 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:54:09,231 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:54:09,243 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:54:09,248 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 16:54:49,697 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:54:49,783 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 16:54:49,825 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 17:06:52,802 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 17:06:52,830 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 17:06:52,850 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 17:11:20,571 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 17:11:20,585 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 17:11:20,598 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 17:13:17,282 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 17:13:17,284 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 17:13:17,290 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 17:36:08,823 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 17:36:08,957 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 17:36:08,963 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 20:13:10,379 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 20:13:10,393 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 20:13:10,408 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 20:15:51,789 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 20:15:51,801 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 20:15:51,812 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 20:17:04,016 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 20:17:04,017 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 20:17:04,022 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 20:22:01,368 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 20:22:01,380 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 20:22:01,389 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 20:28:06,985 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 20:28:06,987 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 20:28:06,998 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 20:36:37,390 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 20:36:37,405 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 20:36:37,416 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 20:37:59,399 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 20:37:59,401 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 20:37:59,407 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:00:07,818 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:00:07,844 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:00:07,861 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:00:19,258 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:00:19,259 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:00:19,265 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:01:29,415 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:01:29,425 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:01:29,435 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:16:13,256 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:16:13,375 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:16:13,379 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:17:01,015 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:17:01,047 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:17:01,051 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:20:44,685 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:20:44,767 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:20:44,771 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:28:55,812 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:28:55,821 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:28:55,828 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:37:11,553 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:37:11,564 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:37:11,574 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:39:56,594 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:39:56,603 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:39:56,612 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:42:13,960 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:42:13,971 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:42:13,981 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:49:46,526 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 21:49:46,529 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:49:46,548 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 21:57:28,365 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 21:57:28,489 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 21:57:28,499 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:03:03,139 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:College-App:0.0.1-SNAPSHOT @ C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\pom.xml.
+2025-08-09 22:03:05,122 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 22:03:05,123 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 22:03:05,132 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:03:06,840 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:03:06,926 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 22:03:06,935 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:41:04,533 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 22:41:04,549 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:41:04,561 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:41:43,879 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:41:44,024 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 22:41:44,033 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:41:49,606 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:41:49,632 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 22:41:49,638 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:41:58,054 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:41:58,065 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 22:41:58,073 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:42:54,544 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:42:54,555 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 22:42:54,559 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:44:28,474 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:44:28,551 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 22:44:28,558 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 22:49:32,074 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 22:49:32,094 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 22:49:32,114 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:00:22,111 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:00:22,278 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:00:22,282 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:04:12,370 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:04:12,464 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:04:12,493 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:04:23,085 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:04:23,109 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:04:23,113 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:05:55,434 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:05:55,444 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:05:55,449 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:07:41,493 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:07:41,531 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:07:41,544 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:10:04,552 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:10:04,643 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:10:04,676 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:17:26,608 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 23:17:26,629 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:17:26,645 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:31:19,936 [Worker-100: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:College-App:0.0.1-SNAPSHOT @ C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\pom.xml.
+2025-08-09 23:31:22,615 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 23:31:22,619 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-09 23:31:22,636 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:31:25,486 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:31:25,674 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:31:25,744 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:34:17,815 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:34:17,913 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:34:17,922 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-09 23:34:28,672 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-09 23:34:28,798 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-09 23:34:28,802 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-10 12:11:19,208 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-10 12:11:36,449 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 12:11:36,492 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-10 12:11:36,509 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-10 16:03:46,707 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:03:46,799 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-08-10 16:03:46,805 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\College-App\src\test\resources
+2025-08-10 16:07:22,810 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:QuizApp:0.0.1-SNAPSHOT @ C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\pom.xml.
+2025-08-10 16:07:24,216 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuizApp/src/main/java
+2025-08-10 16:07:24,218 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QuizApp/src/main/resources
+2025-08-10 16:07:24,234 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QuizApp/src/main/resources
+2025-08-10 16:07:24,249 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuizApp/src/test/java
+2025-08-10 16:07:24,251 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QuizApp/src/test/resources
+2025-08-10 16:07:25,271 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2025-08-10 16:07:25,276 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-10 16:07:25,901 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:QuizApp:0.0.1-SNAPSHOT @ C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\pom.xml.
+2025-08-10 16:07:26,795 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuizApp/src/main/java
+2025-08-10 16:07:26,796 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QuizApp/src/main/resources
+2025-08-10 16:07:26,797 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QuizApp/src/main/resources
+2025-08-10 16:07:26,798 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuizApp/src/test/java
+2025-08-10 16:07:26,798 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /QuizApp/src/test/resources
+2025-08-10 16:07:27,301 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-08-10 16:07:28,015 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:07:28,033 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:07:28,039 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:08:32,674 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:08:32,744 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:08:32,758 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:08:47,212 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:08:47,221 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:08:47,228 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:08:56,950 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:08:56,959 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:08:56,965 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:09:10,146 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:09:10,180 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:09:10,187 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:09:48,625 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:09:48,639 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:09:48,644 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:10:07,589 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:10:07,617 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:10:07,631 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:10:22,461 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:10:22,470 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:10:22,483 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:10:57,297 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:10:57,315 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:10:57,319 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:11:05,583 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:11:05,596 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:11:05,606 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:12:11,715 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:12:11,724 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:12:11,729 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:12:32,240 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:12:32,303 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:12:32,312 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:12:43,778 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:12:43,801 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:12:43,810 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:13:07,162 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:13:07,180 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:13:07,191 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:13:18,399 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:13:18,413 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:13:18,419 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:14:22,599 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:14:22,609 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:14:22,619 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:19:46,521 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:19:46,564 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:19:46,568 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:24:17,327 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:24:17,399 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:24:17,403 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:25:12,164 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:25:12,172 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:25:12,175 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:27:00,328 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:27:00,344 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:27:00,348 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:27:21,476 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:27:21,486 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:27:21,491 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:28:08,794 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:28:08,861 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:28:08,864 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:28:43,459 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:28:43,468 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:28:43,472 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:35:37,941 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:QuizApp:0.0.1-SNAPSHOT @ C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\pom.xml.
+2025-08-10 16:35:42,400 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.3.232/h2-2.3.232.pom
+2025-08-10 16:35:42,489 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.3.232/h2-2.3.232.pom
+2025-08-10 16:35:43,738 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.3.232/h2-2.3.232.jar
+2025-08-10 16:35:45,105 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.3.232/h2-2.3.232.jar
+2025-08-10 16:35:46,280 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:35:46,282 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:35:46,290 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:35:46,653 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/2.3.232/h2-2.3.232-sources.jar
+2025-08-10 16:35:47,546 [Worker-35: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/2.3.232/h2-2.3.232-sources.jar
+2025-08-10 16:35:47,557 [Worker-35: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.h2database:h2:2.3.232
+2025-08-10 16:35:51,286 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:35:51,314 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:35:51,318 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:42:37,475 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:42:37,500 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:42:37,504 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:47:42,396 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:47:42,426 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:47:42,430 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 16:48:42,507 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 16:48:42,521 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 16:48:42,525 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:00:44,483 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:00:44,540 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:00:44,545 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:00:49,204 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:00:49,327 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:00:49,334 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:00:57,794 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:00:57,974 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:00:57,977 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:03:31,354 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:03:31,394 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:03:31,397 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:08:09,311 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:08:09,329 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:08:09,337 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:10:10,279 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:10:10,301 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:10:10,305 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:12:31,515 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:12:31,525 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:12:31,528 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:12:37,367 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:12:37,377 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:12:37,381 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:13:31,456 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:13:31,465 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:13:31,472 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:13:41,187 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:13:41,198 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:13:41,203 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:18:11,925 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:18:11,948 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:18:11,951 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:18:32,447 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:18:32,561 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:18:32,565 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:18:49,267 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:18:49,382 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:18:49,387 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:19:05,228 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:19:05,283 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:19:05,287 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:24:11,971 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:24:12,077 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:24:12,081 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:24:27,873 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:24:27,910 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:24:27,915 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:24:42,344 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:24:42,367 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:24:42,372 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 17:24:59,516 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 17:24:59,526 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 17:24:59,532 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:29:34,125 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:29:34,286 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:29:34,293 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:32:31,823 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:32:31,962 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:32:31,965 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:32:36,053 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:32:36,096 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:32:36,099 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:33:34,460 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:33:34,482 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:33:34,487 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:33:46,159 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:33:46,209 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:33:46,211 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:34:03,772 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:34:03,857 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:34:03,862 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:34:08,875 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:34:09,038 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:34:09,044 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 18:36:10,620 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 18:36:10,660 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 18:36:10,666 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 19:25:23,409 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 19:25:23,461 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 19:25:23,466 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources
+2025-08-10 19:28:04,766 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-10 19:28:04,807 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-10 19:28:04,813 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\LENOVO\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\QuizApp\src\test\resources

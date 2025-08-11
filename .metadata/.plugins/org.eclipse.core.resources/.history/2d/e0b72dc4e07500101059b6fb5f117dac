@@ -1,0 +1,53 @@
+package com.example.app.service.QuizService;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.aspectj.weaver.patterns.TypePatternQuestions.Question;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.app.entities.QuizEntity.QuizEntity;
+import com.example.app.repo.QuizRepo.QuizRepo;
+
+@Service
+public class QuizServiceImpl implements QuizService {
+
+    @Autowired
+    private QuizRepo quizRepo;
+
+    @Override
+    public QuizEntity addQuestion(QuizEntity question) {
+        return quizRepo.save(question);
+    }
+
+    @Override
+    public List<QuizEntity> getAllQuestions() {
+        return quizRepo.findAll();
+    }
+
+    @Override
+    public QuizEntity getQuestionById(Long id) {
+        Optional<QuizEntity> question = quizRepo.findById(id);
+        return question.orElse(null);
+    }
+
+    
+
+    @Override
+    public void deleteQuestion(Long id) {
+        quizRepo.deleteById(id);
+    }
+
+	@Override
+	public Question addQuestion(Question question) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Question addQuestion1(Question question) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

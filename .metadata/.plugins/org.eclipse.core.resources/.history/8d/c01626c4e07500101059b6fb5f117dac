@@ -1,0 +1,17 @@
+package com.example.app.service.QuizService;
+
+import java.util.List;
+
+import org.aspectj.weaver.patterns.TypePatternQuestions.Question;
+
+import com.example.app.entities.QuizEntity.QuizEntity;
+
+public interface QuizService {
+    Question addQuestion(Question question);
+    List<QuizEntity> getAllQuestions();
+    QuizEntity getQuestionById(Long id);
+    void deleteQuestion(Long id);
+	
+	QuizEntity addQuestion(QuizEntity question);
+	Question addQuestion1(Question question);
+}

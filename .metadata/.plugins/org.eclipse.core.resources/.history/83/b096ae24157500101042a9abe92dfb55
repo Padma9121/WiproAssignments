@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+	<title style="color:red">College Curd Applications</title>
+</head>
+<body>
+	<h2>College Details Here!!</h2>
+	<form th:action="@{save}" th:object="${college}" method="post">
+		College Name:-<input type="text" th:field="*{collegeName}"><br>
+		College Email:-<input type="text" th:field="*{collegEmail}"><br>
+		<buuton type="submit">Add</buuton>
+	</formth>
+
+
+</body>
+</html>
