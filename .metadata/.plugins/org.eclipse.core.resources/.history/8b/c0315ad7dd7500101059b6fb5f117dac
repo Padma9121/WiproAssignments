@@ -1,7 +1,0 @@
-package com.example.repo;
-import org.aspectj.weaver.patterns.TypePatternQuestions.Question;
-import org.springframework.data.jpa.repository.JpaRepository;
-import com.example.entities.*;
-
-public interface QuizRepo extends JpaRepository<Question, Long> {
-}

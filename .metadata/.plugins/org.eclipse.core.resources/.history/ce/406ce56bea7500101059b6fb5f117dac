@@ -1,6 +1,0 @@
-public interface QuizService {
-    QuizEntity addQuestion(QuizEntity question);
-    List<QuizEntity> getAllQuestions();
-    QuizEntity getQuestionById(Long id);
-    void deleteQuestion(Long id);
-}
