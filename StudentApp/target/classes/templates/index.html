@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+	<title style="color:red">Student Application</title>
+	<link rel="stylesheet" th:href="@{/css/style.css}">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+	<div class="container">
+	
+		<h2 style="color:red">Student Application</h2>
+	<form th:action="@{/save}" th:object="${student}" method="post">
+		Student rollno:-<input type="number" th:field="*{rollno}"><br>
+		Student Name:-<input type="text" th:field="*{studentName}"><br>
+		Student Email:-<input type="text" th:field="*{studentEmail}"><br>
+		Student age:-<input type="number" th:field="*{age}"><br>
+		Student DOB:-<input type="date" th:field="*{DOB}"><br>
+		Student address:-<input type="text" th:field="*{address}"><br>	
+		<button type="submit">Add</button><br><br>
+	</form>
+	</div>
+	
+
+    <center>
+	<table border="1">
+		<tr>
+			<th>Rollno</th>
+			<th>Student Name </th>
+			<th>Student Email </th>
+			<th>DOB</th>
+			<th>Action</th>
+		</tr>
+		
+		<tr th:each="c:${list}">
+			<td th:text="${c.Id}"> </td><i class="fa-regular fa-trash"></i>
+			<td th:text="${c.studentName}"> </td>
+			<td th:text="${c.studentEmail}"> </td>
+			<td th:text="${c.DOB}"></td>
+			
+			<td><a th:href="@{'/edit/'+${c.id}}"><i class="fa-solid fa-pen"></i></a>
+			<a th:href="@{'/delete/'+${c.id}}"><i class="fa-solid fa-trash" style="color: #c72b0f;"></i></a></td>
+			
+		</tr>
+	</table>
+	</center>
+	
+	
+
+
+</body>
+</html>
