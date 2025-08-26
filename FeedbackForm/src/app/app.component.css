@@ -1,0 +1,19 @@
+.feedback-card {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: lightgreen;
+  text-align: center;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.success-message {
+  margin-top: 15px;
+  padding: 10px;
+  background: #d4edda;
+  color: #051509;
+  border-radius: 5px;
+}
